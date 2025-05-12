@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1747057756|1626057511';
+const CACHE_VERSION = '1747058371|2240992726';
 /** @type {string} */
 const CACHE_PREFIX = 'Tabata Timer-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
